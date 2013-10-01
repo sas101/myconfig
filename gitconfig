@@ -1,0 +1,19 @@
+[user]
+	name = Stefan Simroth
+	email = TODO
+
+[alias]
+  st = status
+  ci = commit
+  br = branch
+  co = checkout
+  df = diff
+  lg = log -p
+  cp = cherry-pick
+
+[merge]
+	tool = meld
+[core]
+	autocrlf = input
+[color]
+	ui = auto
